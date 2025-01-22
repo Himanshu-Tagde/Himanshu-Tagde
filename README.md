@@ -1,6 +1,3 @@
-Here’s your README with added images for each of the technologies mentioned:
-
----
 
 # Hey there, I'm Himanshu!
 
