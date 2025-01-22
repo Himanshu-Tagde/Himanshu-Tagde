@@ -1,30 +1,46 @@
-# Hi there, I'm Himanshu Tagde! 👋
+Here’s your README with added images for each of the technologies mentioned:
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a bit about me:
+---
+
+# Hey there, I'm Himanshu!
+
+Welcome to my corner of GitHub! I'm a passionate developer, always excited about learning and building cool things. Whether it’s solving tricky problems, experimenting with new tech, or building the next awesome project, I’m all in. Here’s a bit about me:
 
 ## 🚀 About Me
-- 🌱 I’m currently learning new technologies and frameworks to enhance my skills.
-- 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: himanshu.tagde@example.com
-- ⚡ Fun fact: I enjoy playing chess and exploring new places.
+- 🌱 Currently diving deep into the world of new technologies, frameworks, and tools to level up my development skills.
+- 💬 I'm your go-to for Python.
+- 📫 Let's connect! Reach out to me at: himanshutagde98@gmail.com
+- ⚡ Fun fact: When I'm not coding, you’ll find me playing a strategic game of chess or exploring new places.
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools I Use
+I'm constantly expanding my toolkit with the latest and greatest in development. Here are some of the technologies I work with:
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## 📈 GitHub Stats
+And here's more of my tech stack:
+
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![Data Science](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=python)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=python)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat&logo=tensorflow)
+
+## 📊 My GitHub Stats
+
+Check out my GitHub journey with these stats. I’m constantly pushing myself to improve, and it’s always fun to see the progress!
+
 ![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu-Tagde&show_icons=true&theme=radical)
 
-## 🏆 Top Languages
+## 🏅 Top Languages
+
+Here’s a quick peek at the languages I code with the most. Each one is a tool I use to build something awesome.
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Tagde&layout=compact&theme=radical)
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-tagde)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/himanshu-tagde)
 
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+Thanks for stopping by! Take a look around, explore my projects, and feel free to reach out if you want to collaborate or just chat about tech!
