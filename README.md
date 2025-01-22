@@ -1,5 +1,6 @@
 
 # Hey there, I'm Himanshu!
+![image](https://github.com/user-attachments/assets/502c42f2-cd1c-4476-82c9-6fe9b232a29e)
 
 Welcome to my corner of GitHub! I'm a passionate developer, always excited about learning and building cool things. Whether it’s solving tricky problems, experimenting with new tech, or building the next awesome project, I’m all in. Here’s a bit about me:
 
