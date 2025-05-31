@@ -5,7 +5,7 @@ Welcome to my corner of GitHub! I'm a passionate developer, always excited about
 ## 🚀 About Me
 - 🌱 Currently diving deep into the world of new technologies, frameworks, and tools to level up my development skills.
 - 💬 I'm your go-to for Python.
-- 📫 Let's connect! Reach out to me at: himanshutagde98@gmail.com
+- 📫 Let's connect! Reach out to me at: himanshutagde96@gmail.com
 - ⚡ Fun fact: When I'm not coding, you’ll find me playing a strategic game of chess or exploring new places.
 
 ## 🔧 Technologies & Tools I Use
